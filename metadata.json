@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio Exporter",
+  "description": "Convert Google AI Studio projects into production-ready static websites.",
+  "requestFramePermissions": []
+}
